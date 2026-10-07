@@ -4,6 +4,8 @@
 
 Trabalho Final da disciplina **Machine Learning Foundation and Classical Models** — FIAP MBA · AI Foundation and Learning Models · Turma 5AIER.
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/assisprestes/AI-Foundation-and-Learning-Models/blob/master/QuantumCommerce_Deteccao_Fraudes.ipynb)
+
 ---
 
 ## Integrantes
@@ -109,14 +111,14 @@ Outros resultados do protótipo:
 
 ### Google Colab
 
-1. Abra o [Google Colab](https://colab.research.google.com/) e faça upload do arquivo `QuantumCommerce_Deteccao_Fraudes.ipynb`.
+1. Clique no botão **Abrir no Colab** no topo deste README (ou acesse [este link](https://colab.research.google.com/github/assisprestes/AI-Foundation-and-Learning-Models/blob/master/QuantumCommerce_Deteccao_Fraudes.ipynb)).
 2. Execute todas as células (*Ambiente de execução → Executar tudo*).
 
 ### Localmente
 
 ```bash
-git clone <url-deste-repositorio>
-cd <pasta-do-repositorio>
+git clone https://github.com/assisprestes/AI-Foundation-and-Learning-Models.git
+cd AI-Foundation-and-Learning-Models
 pip install -r requirements.txt
 jupyter notebook QuantumCommerce_Deteccao_Fraudes.ipynb
 ```
@@ -165,5 +167,6 @@ A semente aleatória é fixa (`42`), então a execução é reprodutível.
 - [Kaggle — IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) (alternativa de base pública)
 
 ---
+
 
 <sub>Projeto acadêmico. Quantum Commerce é uma empresa fictícia; todos os dados são sintéticos.</sub>
